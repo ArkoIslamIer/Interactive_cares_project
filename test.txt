@@ -2,3 +2,4 @@ Testing git
 reset
 1st commit
 2dn commit 
+3rd commit
